@@ -30,9 +30,9 @@
 
 [CmdletBinding()]
 param(
-    [string]$OddPdfPath = "C:\Users\pawel\Documents\Scan\2025.12.14- Zmywarka.pdf",
+    [string]$OddPdfPath = "C:\Users\pawel\Documents\Scan\2025.12.14- Zmywarka_odd.pdf",
 
-    [string]$EvenPdfPath = "C:\Users\pawel\Documents\Scan\2025.12.14- Zmywarka1.pdf",
+    [string]$EvenPdfPath = "C:\Users\pawel\Documents\Scan\2025.12.14- Zmywarka_even.pdf",
 
     [string]$OutputPdfPath = "C:\Users\pawel\Documents\Scan\2025.12.14- Zmywarka_out.pdf",
 
